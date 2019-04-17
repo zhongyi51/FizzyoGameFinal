@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3b113a0a544a6649a82c244889ed2e2
+timeCreated: 1520283217
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mars: {fileID: 1519745100633360, guid: 94ca0cd92c0606340bb4286140f0297b, type: 2}
+  - jupiter: {fileID: 1246585037531334, guid: f56efea96a679f74e86ad25c2df89d12, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

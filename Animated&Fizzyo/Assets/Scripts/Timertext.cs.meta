@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 678b32e1b0beb1f4187adecb6ac7201d
+timeCreated: 1520469664
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - mars: {fileID: 1519745100633360, guid: 94ca0cd92c0606340bb4286140f0297b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
